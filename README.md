@@ -48,10 +48,15 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 6. Original Speakers
 * The original speakers of the iMac will be powered by the onboard amplifier on the R1820 connecting from the 4-pin JST connector to two crossover filters distributing treble and bass to the correct speakers.
 * Extra Camera and Microphone modules will be added to simulate the iMac experience.
+* Microphones sit outside where Ethernet plug was.
 
 7. The Internal Fan and fan speed control
 * Fan will be fairly important to cool off the monitor interior, this 5k monitor can be fairly hot when it's working. I heard bad things happened for not having any ventilation used.
 * Extram PWM module will be added to control internal fan.
 
 8. Monitor Controll Access
-* I have create my own controll board and reuse the original iMac USB holes as my access as well as monitor status LED.
+* I have to create my own controll board and reuse the original iMac USB holes as my access and for monitor status LED.
+* I have also modified the input access 3D print to accomdate one more DP port.
+
+9. extra AC outlet 
+* By placing a secured M16 plug, my monitor provides AC to my M4 Mac Mini. (Special wiring required)
