@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=5q3SdtiLAPk
 
 
 #My Plan
-![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/Jpeg/IMG_7939.png)
+![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/PNG/IMG_7939.png)
 * R1820 V1 as Driver Board
 The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable. 
 
