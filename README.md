@@ -56,3 +56,7 @@ Webcam, Microphone and Speakers
 An integral part of the iMac experience is the all-in-one sensation. We will install and integrate a slim 4K USB autofocus webcam.
 
 The original speakers of the iMac will be powered by the onboard amplifier on the R1820 connecting from the 4-pin JST connector to two crossover filters distributing treble and bass to the correct speakers.
+Extra Camera and Microphone modules will be added to simulate the iMac experience.
+
+The internal fan 
+Fan will be used to cool off the monitor, this 5k monitor can be fairly hot when it's working.
