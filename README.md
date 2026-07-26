@@ -19,7 +19,9 @@ someday the screen went nuts and turned
 off by itself. It turns out the driver
 board do not last long for some reason.
 In this 6 months, I loved the monitor but
-I felt it vould be better if it's retina
+I felt it could be better if it's a retina
 display. So,I started to look for how a
 5K monitor can be done from internet...
+
+Here is the snapshot of what I did:
 
