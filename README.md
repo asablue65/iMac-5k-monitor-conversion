@@ -5,7 +5,7 @@ In March 2025, I received a free
 playing it for 3 months with OCLP and
 OS Sequoia, I decided the performance
 is not very suitable for my day-to-day
-use, so I goahead and acquired a M4 
+use, so I went ahead and acquired a M4 
 Mac Mini. In the mean time I learned 
 many users have converted it to monitor,
 and I just happen to need a good monitor
