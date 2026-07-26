@@ -40,6 +40,7 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 4. DisplayPort 1.4
 * For high-resolution displays and seamless data transfer, DP 1.4 offers robust performance. It supports resolutions up to 8K at 60Hz or 4K at 120Hz.
 * R1820 driver board offers 2 DP inputs
+* To place 2 DP inlets, I have to dig extra holes from the RAM Door housing and FAN Duct housing for the DP extension to work.
 
 5. Webcam, Microphone and Speakers
 * An integral part of the iMac experience is the all-in-one sensation. 
@@ -60,3 +61,10 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 9. extra AC outlet 
 * By placing a secured M16 plug, my monitor provides AC to my M4 Mac Mini. (Special wiring required)
+
+10. My BOM pictures are inside the PNG folder, you can photo google them, and purchase at the place at your convenience.
+* GOOD LUCK with your own iMac 5K conversion
+
+#Conclusion:
+* I like my conversion,though not perfect, I have reused everything I could so it provides suitable functions I needed.
+* I do not own the skill to resketch my own 3D printings, but I hope that can be nailed, too ;)
