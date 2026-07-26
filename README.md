@@ -37,26 +37,27 @@ possibilities.
 
 https://www.youtube.com/watch?v=5q3SdtiLAPk
 
-![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/Jpeg/IMG_7939.jpeg)
 
 #My Plan
-R1820 V1 as Driver Board
+![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/Jpeg/IMG_7939.jpeg)
+* R1820 V1 as Driver Board
 The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable. 
 
-Thunderbolt/USB-C Ports
+* Thunderbolt/USB-C Ports
 The main input is a USB-C 4.0 and capable of video display and 60W PD output for hooking up a Macbook or any Laptops with a thunderbolt 3/4/5 port.
 
-HDMI 2.1
+* HDMI 2.1
 R1820's HDMI 2.1 offers substantially higher bandwidth and many other useful features. It should be able to drive the full 5K resolution at 10 bit color. 
 
-DisplayPort 1.4
+* DisplayPort 1.4
 For high-resolution displays and seamless data transfer, DP 1.4 offers robust performance. It supports resolutions up to 8K at 60Hz or 4K at 120Hz.
 
-Webcam, Microphone and Speakers
+* Webcam, Microphone and Speakers
 An integral part of the iMac experience is the all-in-one sensation. We will install and integrate a slim 4K USB autofocus webcam.
 
+* Original Speakers
 The original speakers of the iMac will be powered by the onboard amplifier on the R1820 connecting from the 4-pin JST connector to two crossover filters distributing treble and bass to the correct speakers.
 Extra Camera and Microphone modules will be added to simulate the iMac experience.
 
-The internal fan 
+* The internal fan 
 Fan will be used to cool off the monitor, this 5k monitor can be fairly hot when it's working.
