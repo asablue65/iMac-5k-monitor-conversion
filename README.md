@@ -39,17 +39,17 @@ https://www.youtube.com/watch?v=5q3SdtiLAPk
 
 
 #My Plan
-![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/Jpeg/IMG_7939.jpeg)
+![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/Jpeg/IMG_7939.png)
 * R1820 V1 as Driver Board
 The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable. 
 
-* Thunderbolt/USB-C Ports
+* Thunderbolt/USB-C Ports will be my primary input
 The main input is a USB-C 4.0 and capable of video display and 60W PD output for hooking up a Macbook or any Laptops with a thunderbolt 3/4/5 port.
 
-* HDMI 2.1
+* HDMI 2.1 x 2
 R1820's HDMI 2.1 offers substantially higher bandwidth and many other useful features. It should be able to drive the full 5K resolution at 10 bit color. 
 
-* DisplayPort 1.4
+* DisplayPort 1.4 x 2
 For high-resolution displays and seamless data transfer, DP 1.4 offers robust performance. It supports resolutions up to 8K at 60Hz or 4K at 120Hz.
 
 * Webcam, Microphone and Speakers
