@@ -1,6 +1,6 @@
 # iMac-5k-monitor-conversion
 # DIY project
-In March 2025, I received a free 2013 iMac 27 to play with. After playing it for 3 months with OCLP and OS Sequoia, I decided the performance is not very suitable for my day-to-day use, so I went ahead and acquired a M4 Mac Mini. In the mean time I learned many users have converted it to monitor, and I just happen to need a good monitorfor my Mac Mini, a 27-inch 2K monitor was done after a month through many tries and errors. (I want it to look good andprofessional)
+In March 2025, I received a free 2013 iMac 27 to play with. After playing it for 3 months with OCLP and OS Sequoia, I decided the performance is not very suitable for my day-to-day use, so I went ahead and acquired a M4 Mac Mini. In the mean time I learned many users have converted it to monitor, and I just happen to need a good monitorfor my Mac Mini, a 27-inch 2K monitor was done after a month through many tries and errors. (I want it to look good and professional)
 
 Then I used the 2K monitor for 6 months, someday the screen went nuts and turned off by itself. It turns out the driver board do not last long for some reason. In this 6 months, I loved the monitor but I felt it could be better if it's a retina display. So, I started to look for how a 5K monitor can be done from internet...(Plus what I have learned by converting my 2K monitor earlier)
 
@@ -23,6 +23,9 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 ![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7941.png)
 ![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7942.png)
 
+0. iMac 5K 2014-2020 with good screen
+* Instead of buying another used iMac 5k, I purchased a 2020 iMac display replacement to start with
+* A wrong move, there will be no true tone, and the camera window is a headache. (I nailed it, but get a 2017/2019 display is easier)
 
 1. R1820 V1 as Driver Board
 * The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable. 
