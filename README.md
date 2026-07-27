@@ -12,7 +12,7 @@ Special thanks to the video from Snazzy Labs inspired me to dig out more possibi
 
 https://www.youtube.com/watch?v=5q3SdtiLAPk
 
-And the to the Macrumors Forum and all the contributors inside the Forum helped me the necessary information.
+And my appreciations to the Macrumors Forum and all contributors inside the Forum filled me with the necessary information.
 
 https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
