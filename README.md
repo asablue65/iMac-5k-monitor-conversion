@@ -28,10 +28,11 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 * A wrong move, there will be no true tone, and the camera window is a headache. (I nailed it, but get a 2017/2019 display is easier)
 
 1. R1820 V1 as Driver Board
-* The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable. 
+* The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable.
+* R1820n driver board is DDC compatible, therefore you can use apps suach as BetterDisplay to control you monitor backlite and sound volume just like a normal iMac by using Apple keyboards.
 
 2. Thunderbolt/USB-C Ports will be my primary input
-* The main input is a USB-C 4.0 and capable of video display and 60W PD output for hooking up a Macbook or any Laptops with a thunderbolt 3/4/5 port.
+* The main input is a USB-C 4.0 and capable of video display and 65W PD output for hooking up a Macbook or any Laptops with a thunderbolt 3/4/5 port.
 
 3. HDMI 2.1
 * HDMI 2.1 offers substantially higher bandwidth and many other useful features. It should be able to drive the full 5K resolution at 10 bit color. 
@@ -66,5 +67,5 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 * GOOD LUCK with your own iMac 5K conversion
 
 #Conclusion:
-* I like my conversion,though not perfect, I have reused everything I could so it provides suitable functions I needed.
-* I do not own the skill to resketch my own 3D printings, but I hope that can be nailed, too ;)
+* I like my conversion, though not perfect, I have reused everything I could so it provides suitable functions I needed.
+* I do not own the skill to sketch my own 3D printings, but I hope that can be nailed, too ;)
