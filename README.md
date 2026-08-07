@@ -74,5 +74,5 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 | Item Photo    | Item Description |
 | ------------- | ---------------- |
-| (https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/"StoneTaskin R1820".png)  | StoneTaskin R1820 V1 Driver Board  |
+| (https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
 | Content Cell  | Content Cell  |
