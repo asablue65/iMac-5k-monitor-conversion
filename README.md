@@ -75,4 +75,4 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | Item Photo    | Item Description |
 | ------------- | ---------------- |
 | ![R1820](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
-| Content Cell  | Content Cell  |
+| ![Delta PMT-24V200W2B](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
