@@ -18,7 +18,7 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 
 
-#My Plan
+# My Plan
 ![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7939.png)
 ![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7941.png)
 ![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7942.png)
@@ -66,11 +66,11 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 10. My BOM pictures are inside the PNG folder, you can photo google them, and purchase at the place at your convenience.
 * GOOD LUCK with your own iMac 5K conversion
 
-#Conclusion:
+# Conclusion:
 * I like my conversion, though not perfect, I have reused everything I could so it provides suitable functions I needed.
 * I do not own the skill to sketch my own 3D printings, but I hope that can be nailed, too ;)
 
-#What to buy
+# What to buy
 
 | Item Photo    | Item Description |
 | ------------- | ---------------- |
