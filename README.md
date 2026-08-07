@@ -19,9 +19,9 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 
 # My Plan
-![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7939.png)
-![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7941.png)
-![System Info](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7942.png)
+![System Layout](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7939.png)
+![System Input](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7941.png)
+![System Control](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7942.png)
 
 0. iMac 5K 2014-2020 with good screen
 * Instead of buying another used iMac 5k, I purchased a 2020 iMac display replacement to start with
@@ -76,3 +76,4 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | ------------- | ---------------- |
 | ![R1820](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
 | ![Delta PMT-24V200W2B](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
+| ![PWM Controller](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/12V_PWM_Controller.png)| 12V PWM Controller  |
