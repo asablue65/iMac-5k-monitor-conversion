@@ -79,19 +79,19 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | ![R1820](PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
 | ![Delta PMT-24V200W2B](PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
 | ![PWM Controller](PNG/12V_PWM_Controller.png) | 12V PWM Controller |
-| ![Molex_43640 Connector] (PNG/Molex_43640-0300.png) | Molex 43640 for AC inlet Connector |
-| ![PCB 80x20mm] (PNG/PCB0820.png) | PCB Double Side 80mm x 20mm, Punch Distance: 2.54mm/0.1"  |
-| ![Mini Button] (PNG/3x6x5mm_Buttons.png) | 3x6mm Mini Buttons 5mm tall |
-| ![DP1.4 Extension] (PNG/DP1.4_Ext.png) | Cable Matters DisplayPort 1.4 Extension 90-degree |
-| ![HDMI2.1 Extension] (PNG/HDMI2.1-90D.png) | HDMI 2.1 Extension 90-degree faceup and facedown |
-| ![USB4 Extension] (PNG/USB4-90D.png) | USB4 Extension 90-degree)
-| ![DP1.4 Extension Cable] (PNG/DP1.4-8K.png) | DisplayPort 1.4 Extension Cable |
-| ![HDMI2.1 Extension Cable] (PNG/HDMI2.1-8k.png) | HDMI 2.1 Extension Cable |
-| ![USB4 Extension Cable] (PNG/USB4_Ext.png) | USB4 Extension Cable |
-| ![iMac Speaker Crossover] (PNG/iMac-Speaker-Crossover.png) | iMac Speaker Crossover pair |
-| ![USB3 B2C cable for CTRL] (PNG/USB3-B2C.png) | USB3 B2C Cable for USB Uplink |
-| ![Typec Extension for CTRL] (PNG/Type-C_F2F.png) | Type-C extension for USB Uplink |
-| ![USB Camera OV5693] (PNG/OV5693-72.png) | USB autofocus HD webcam |
-| ![USD Active Noise Cancelling Mic Module] (PNG/ANC_Dual_Mic.png) | USB noise cancelling dual mic module |
-| ![Molex 504050 Connector] (PNG/molex_504050.png) | Molex 504050 for internal iMac speaker Connector |
-| ![Molex 504051 Connector] (PNG/molex_504051.png) | Molex 504051 for internal iMac speaker Connector |
+| ![Molex_43640 Connector](PNG/Molex_43640-0300.png) | Molex 43640 for AC inlet Connector |
+| ![PCB 80x20mm](PNG/PCB0820.png) | PCB Double Side 80mm x 20mm, Punch Distance: 2.54mm/0.1"  |
+| ![Mini Button](PNG/3x6x5mm_Buttons.png) | 3x6mm Mini Buttons 5mm tall |
+| ![DP1.4 Extension](PNG/DP1.4_Ext.png) | Cable Matters DisplayPort 1.4 Extension 90-degree |
+| ![HDMI2.1 Extension](PNG/HDMI2.1-90D.png) | HDMI 2.1 Extension 90-degree faceup and facedown |
+| ![USB4 Extension](PNG/USB4-90D.png) | USB4 Extension 90-degree)
+| ![DP1.4 Extension Cable](PNG/DP1.4-8K.png) | DisplayPort 1.4 Extension Cable |
+| ![HDMI2.1 Extension Cable](PNG/HDMI2.1-8k.png) | HDMI 2.1 Extension Cable |
+| ![USB4 Extension Cable](PNG/USB4_Ext.png) | USB4 Extension Cable |
+| ![iMac Speaker Crossover](PNG/iMac-Speaker-Crossover.png) | iMac Speaker Crossover pair |
+| ![USB3 B2C cable for CTRL](PNG/USB3-B2C.png) | USB3 B2C Cable for USB Uplink |
+| ![Typec Extension for CTRL](PNG/Type-C_F2F.png) | Type-C extension for USB Uplink |
+| ![USB Camera OV5693](PNG/OV5693-72.png) | USB autofocus HD webcam |
+| ![USD Active Noise Cancelling Mic Module](PNG/ANC_Dual_Mic.png) | USB noise cancelling dual mic module |
+| ![Molex 504050 Connector](PNG/molex_504050.png) | Molex 504050 for internal iMac speaker Connector |
+| ![Molex 504051 Connector](PNG/molex_504051.png) | Molex 504051 for internal iMac speaker Connector |
