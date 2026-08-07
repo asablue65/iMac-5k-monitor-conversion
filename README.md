@@ -29,41 +29,43 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 1. R1820 V1 as Driver Board
 * The build will be based on the R1820 driver board. It supports the full 5120 x 2880 resolution at 10 bit color depth over a single cable.
-* R1820n driver board is DDC compatible, therefore you can use apps suach as BetterDisplay to control you monitor backlite and sound volume just like a normal iMac by using Apple keyboards.
+* R1820n driver board is DDC compatible, therefore you can use apps suach as BetterDisplay to control your monitor backlite and sound volume just like a normal iMac by using Apple keyboards.
 
-2. Thunderbolt/USB-C Ports will be my primary input
+2. Delta PMT-24V200W2B 24V 200W Power Supply
+* Unlike most people use MeanWell power supply, I liked Delta better, and its 200W power supply measure the same size as MeanWell's 150W one. So, it's easier to fit and give more power.
+
+3. Thunderbolt/USB-C Ports will be my primary input
 * The main input is a USB-C 4.0 and capable of video display and 65W PD output for hooking up a Macbook or any Laptops with a thunderbolt 3/4/5 port.
 
-3. HDMI 2.1
+3.1 HDMI 2.1 Ports
 * HDMI 2.1 offers substantially higher bandwidth and many other useful features. It should be able to drive the full 5K resolution at 10 bit color. 
 * R1820 driver board offers 2 HDMI inputs
 
-4. DisplayPort 1.4
+3.2 DP(DisplayPort) 1.4 Ports
 * For high-resolution displays and seamless data transfer, DP 1.4 offers robust performance. It supports resolutions up to 8K at 60Hz or 4K at 120Hz.
 * R1820 driver board offers 2 DP inputs
-* To place 2 DP inlets, I have to dig extra holes from the RAM Door housing and FAN Duct housing for the DP extension to work.
 
-5. Webcam, Microphone and Speakers
-* An integral part of the iMac experience is the all-in-one sensation. 
-* We will install and integrate a slim HD USB autofocus webcam and a noise cancelling dual microphones.
+4. 3D-Print Video Input Bay
+* Thanks to pnwkayaker's conversion (https://www.printables.com/model/1225257-imac-5k-conversion-using-sa1-board), I love how he use iMac's RAM Door for all the video inputs, he made a perfect 3D bay for SA1 board, but my R1820 has one extra DP input, so I made minor modification to his design, please check my modification inside the `STL` folder.
 
-6. Original Speakers
+5. Webcam, Microphone and Original Speakers
+* I will integrate a slim USB autofocus HD webcam and a noise cancelling dual microphones into the iMac for its all-in-one sensation.
 * The original speakers of the iMac will be powered by the onboard amplifier on the R1820 connecting from the 4-pin JST connector to two crossover filters distributing treble and bass to the correct speakers.
-* Extra Camera and Microphone modules will be added to simulate the iMac experience.
-* Microphones sit outside where Ethernet plug was.
+* Microphones sit at the back of iMac using the ethernet port hole for mic holder at the back of iMac.(Not a great location, but it works for now)
 
-7. The Internal Fan and fan speed control
-* Fan will be fairly important to cool off the monitor interior, this 5k monitor can be fairly hot when it's working. I heard bad things happened for not having any ventilation used.
-* Extram PWM module will be added to control internal fan.
+6. The Internal Fan and fan speed control
+* Fan will be fairly important to cool off the monitor interior, this 5k monitor can be fairly hot when it's working especially when supplying power to MacBook by its PD 65W. I heard bad things could happen if not having any active ventilation.
+* Extra PWM module will be added to control internal fan for lowering its noise. (adjust the PWM according to your working environment.
 
-8. Monitor Controll Access
-* I have to create my own controll board and reuse the original iMac USB holes as my access and for monitor status LED.
-* I have also modified the input access 3D print to accomdate one more DP port.
+7. Monitor Control Access
+* I have to create my own controller board and reuse the original iMac USB holes as my access and for monitor status LED.
+* I also use BetterDisplay to control my monitor backlite and sound volume on my Mac Mini to mimic the iMac experience, it works great!
 
-9. extra AC outlet 
-* By placing a secured M16 plug, my monitor provides AC to my M4 Mac Mini. (Special wiring required)
+8. AC plug and extra AC outlet 
+* I have reused iMac's original AC inlet and connect it to my power supply by adding a Molex 43640 connector and wire.
+* By adding a secured M16 plug, my monitor also provides AC to my M4 Mac Mini. (Special wiring required)
 
-10. My BOM pictures are inside the PNG folder, you can photo google them, and purchase at the place at your convenience.
+9. My BOM pictures are inside the `PNG` folder, you can photo google them, and purchase at the place at your convenience.
 * GOOD LUCK with your own iMac 5K conversion
 
 ## Conclusion:
@@ -76,4 +78,20 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | ------------- | ---------------- |
 | ![R1820](PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
 | ![Delta PMT-24V200W2B](PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
-| ![PWM Controller](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/12V_PWM_Controller.png)| 12V PWM Controller  |
+| ![PWM Controller](PNG/12V_PWM_Controller.png)| 12V PWM Controller  |
+| ![Molex_43640] (PNG/Molex_43640-0300.png) | Molex 43649 for AC inlet Connector |
+| ![PCB 08x20] (PNG/PCB0820.png) | PCB Double Side 80mm x 20mm, Punch Distance: 2.54mm/0.1"  |
+| ![Mini Button] (PNG/3x6x5mm_Buttons.png) | 3x6mm Mini Buttons 5mm tall |
+| ![DP1.4 Extension] (PNG/DP1.4_Ext.png) | Cable Matters DisplayPort 1.4 Extension 90-degree |
+| ![HDMI2.1 Extension] (PNG/HDMI2.1-90D.png) | HDMI 2.1 Extension 90-degree faceup and facedown |
+| ![USB4 Extension] (PNG/USB4-90D.png) | USB4 Extension 90-degree)
+| ![DP1.4 Extension Cable] (PNG/DP1.4-8K.png) | DisplayPort 1.4 Extension Cable |
+| ![HDMI2.1 Extension Cable] (PNG/HDMI2.1-8k.png) | HDMI 2.1 Extension Cable |
+| ![USB4 Extension Cable] (PNG/USB4_Ext.png) | USB4 Extension Cable |
+| ![iMac Speaker Crossover] (PNG/iMac-Speaker-Crossover.png) | iMac Speaker Crossover pair |
+| ![USB3 B2C cable for CTRL] (PNG/USB3-B2C.png) | USB3 B2C Cable for USB Uplink |
+| ![Typec Extension for CTRL] (PNG/Type-C_F2F.png) | Type-C extension for USB Uplink |
+| ![USB Camera OV5693] (PNG/OV5693-72.png) | USB autofocus HD webcam |
+| ![USD Active Noise Cancelling Mic Module] (PNG/ANC_Dual_Mic.png] | USB noise cancelling dual mic module |
+| ![Molex 504050] (PNG/molex_504050.png) | Molex 504050 for internal iMac speaker Connector |
+| ![Molex 504051] (PNG/molex_504051.png) | Molex 504051 for internal iMac speaker Connector |
