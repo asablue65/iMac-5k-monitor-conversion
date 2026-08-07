@@ -1,5 +1,5 @@
 # iMac-5k-monitor-conversion
-# DIY project
+## DIY project
 In March 2025, I received a free 2013 iMac 27 to play with. After playing it for 3 months with OCLP and OS Sequoia, I decided the performance is not very suitable for my day-to-day use, so I went ahead and acquired a M4 Mac Mini. In the mean time I learned many users have converted it to monitor, and I just happen to need a good monitorfor my Mac Mini, a 27-inch 2K monitor was done after a month through many tries and errors. (I want it to look good and professional)
 
 Then I used the 2K monitor for 6 months, someday the screen went nuts and turned off by itself. It turns out the driver board do not last long for some reason. In this 6 months, I loved the monitor but I felt it could be better if it's a retina display. So, I started to look for how a 5K monitor can be done from internet...(Plus what I have learned by converting my 2K monitor earlier)
@@ -18,10 +18,10 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 
 
-# My Plan
-![System Layout](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7939.png)
-![System Input](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7941.png)
-![System Control](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/IMG_7942.png)
+## My Plan
+![System Layout](PNG/IMG_7939.png)
+![System Input](PNG/IMG_7941.png)
+![System Control](PNG/IMG_7942.png)
 
 0. iMac 5K 2014-2020 with good screen
 * Instead of buying another used iMac 5k, I purchased a 2020 iMac display replacement to start with
@@ -66,7 +66,7 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 10. My BOM pictures are inside the PNG folder, you can photo google them, and purchase at the place at your convenience.
 * GOOD LUCK with your own iMac 5K conversion
 
-# Conclusion:
+## Conclusion:
 * I like my conversion, though not perfect, I have reused everything I could so it provides suitable functions I needed.
 * I do not own the skill to sketch my own 3D printings, but I hope that can be nailed, too ;)
 
@@ -74,6 +74,6 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 | Item Photo    | Item Description |
 | ------------- | ---------------- |
-| ![R1820](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
-| ![Delta PMT-24V200W2B](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
+| ![R1820](PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
+| ![Delta PMT-24V200W2B](PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
 | ![PWM Controller](https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/12V_PWM_Controller.png)| 12V PWM Controller  |
