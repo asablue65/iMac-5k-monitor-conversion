@@ -86,7 +86,7 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | ![HDMI2.1 Extension](PNG/HDMI2.1-90D.png) | HDMI 2.1 Extension 90-degree faceup and facedown |
 | ![USB4 Extension](PNG/USB4-90D.png) | USB4 Extension 90-degree)
 | ![DP1.4 Extension Cable](PNG/DP1.4-8K.png) | DisplayPort 1.4 Extension Cable |
-| ![HDMI2.1 Extension Cable](PNG/HDMI2.1-8k.png) | HDMI 2.1 Extension Cable |
+| ![HDMI2.1 Extension Cable](PNG/HDMI2.1-8K.png) | HDMI 2.1 Extension Cable |
 | ![USB4 Extension Cable](PNG/USB4_Ext.png) | USB4 Extension Cable |
 | ![iMac Speaker Crossover](PNG/iMac-Speaker-Crossover.png) | iMac Speaker Crossover pair |
 | ![USB3 B2C cable for CTRL](PNG/USB3-B2C.png) | USB3 B2C Cable for USB Uplink |
