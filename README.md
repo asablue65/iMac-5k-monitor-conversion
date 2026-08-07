@@ -69,3 +69,10 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 #Conclusion:
 * I like my conversion, though not perfect, I have reused everything I could so it provides suitable functions I needed.
 * I do not own the skill to sketch my own 3D printings, but I hope that can be nailed, too ;)
+
+#What to buy
+
+| Item Photo    | Item Description |
+| ------------- | ---------------- |
+| (https://github.com/asablue65/iMac-5k-monitor-conversion/blob/main/PNG/StoneTaskin R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
+| Content Cell  | Content Cell  |
