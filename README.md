@@ -82,9 +82,9 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | ![Molex_43640 Connector](PNG/Molex_43640-0300.png) | Molex 43640 for AC inlet Connector |
 | ![PCB 80x20mm](PNG/PCB0820.png) | PCB Double Side 80mm x 20mm, Punch Distance: 2.54mm/0.1"  |
 | ![Mini Button](PNG/3x6x5mm_Buttons.png) | 3x6mm Mini Buttons 5mm tall |
-| ![DP1.4 Extension](PNG/DP1.4_Ext.png) | Cable Matters DisplayPort 1.4 Extension 90-degree |
-| ![HDMI2.1 Extension](PNG/HDMI2.1-90D.png) | HDMI 2.1 Extension 90-degree faceup and facedown |
-| ![USB4 Extension](PNG/USB4-90D.png) | USB4 Extension 90-degree)
+| ![DP1.4 Adapter](PNG/DP1.4_Ext.png) | Cable Matters DisplayPort 1.4 Adapter Right Angle |
+| ![HDMI2.1 Adapter](PNG/HDMI2.1-90D.png) | HDMI 2.1 Adapter Right Angle (up and down) |
+| ![USB4 Adapter](PNG/USB4-90D.png) | USB4 Adapter 90-degree)
 | ![DP1.4 Extension Cable](PNG/DP1.4-8K.png) | DisplayPort 1.4 Extension Cable |
 | ![HDMI2.1 Extension Cable](PNG/HDMI2.1-8K.png) | HDMI 2.1 Extension Cable |
 | ![USB4 Extension Cable](PNG/USB4_Ext.png) | USB4 Extension Cable |
