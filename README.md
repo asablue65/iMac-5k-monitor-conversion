@@ -76,9 +76,9 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 | Item Photo    | Item Description |
 | ------------- | ---------------- |
-| ![R1820](PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
+| ![R1820 V1 Driver Board](PNG/StoneTaskin_R1820.png)  | StoneTaskin R1820 V1 Driver Board  |
 | ![Delta PMT-24V200W2B](PNG/Delta_PMT-24V200W2B.png) | Delta PMT-24V200W2B Power Supply |
-| ![PWM Controller](PNG/12V_PWM_Controller.png) | 12V PWM Controller |
+| ![PWM Controller](PNG/12V_PWM_Controller.png) | 12V PWM Controller for internal fan |
 | ![Molex_43640 Connector](PNG/Molex_43640-0300.png) | Molex 43640 for AC inlet Connector |
 | ![PCB 80x20mm](PNG/PCB0820.png) | PCB Double Side 80mm x 20mm, Punch Distance: 2.54mm/0.1"  |
 | ![Mini Button](PNG/3x6x5mm_Buttons.png) | 3x6mm Mini Buttons 5mm tall |
