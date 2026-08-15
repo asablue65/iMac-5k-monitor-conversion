@@ -95,3 +95,6 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 | ![USD Active Noise Cancelling Mic Module](PNG/ANC_Dual_Mic.png) | USB noise cancelling dual mic module |
 | ![Molex 504050 Connector](PNG/molex_504050.png) | Molex 504050 for internal iMac speaker Connector |
 | ![Molex 504051 Connector](PNG/molex_504051.png) | Molex 504051 for internal iMac speaker Connector |
+
+#external link:
+https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/page-157?post=34715402#post-34715402
