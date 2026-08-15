@@ -50,7 +50,7 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 7. Webcam, Microphone and Original Speakers
 * I will integrate a slim USB autofocus HD webcam and a noise cancelling dual microphones into the iMac for its all-in-one sensation.
-* The original speakers of the iMac will be powered by the onboard amplifier on the R1820 connecting from the 4-pin JST connector to two crossover filters distributing treble and bass to the correct speakers. To make it sound better, eqMac is recommended for a try.
+* The original speakers of the iMac will be powered by the onboard amplifier on the R1820 connecting from the 4-pin JST connector to two crossover filters distributing treble and bass to the correct speakers. To make it sound better, SoundSource/eqMac is recommended for a try.
 * Microphones sit at the back of iMac using the ethernet port hole for mic holder at the back of iMac.(Not a great location, but it works for now)
 
 8. The Internal Fan and fan speed control
