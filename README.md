@@ -30,7 +30,7 @@ https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/
 
 1. R1820 V1 as Driver Board
 * The build will be based on the R1820 driver board. It supports full 5120 x 2880 resolution at 10 bit color depth over a single cable.
-* R1820n driver board is DDC compatible, therefore you can use apps suach as BetterDisplay to control your monitor backlite and sound volume just like a normal iMac by using Apple keyboards.
+* R1820 is DDC compatible, therefore you can control your monitor backlite and sound volume through apps suach as BetterDisplay just like a normal iMac by using Apple keyboards.
 
 2. Delta PMT-24V200W2B 24V 200W Power Supply
 * Unlike most people use MeanWell power supply, I liked Delta better, and its 200W power supply measure the same size as MeanWell's 150W one. So, it's easier to fit and give more power.
